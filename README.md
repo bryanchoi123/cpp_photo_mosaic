@@ -1,4 +1,4 @@
-# cpp_photo_mosaic
+# Photo Mosaic Magic
 Photo Mosaic assignment for Data Structures Course
 
 # Description
